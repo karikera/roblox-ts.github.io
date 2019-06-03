@@ -468,7 +468,7 @@
 - name: rbx-remoteevent
   author: karikera
   keywords: remoteevent remotefunction
-  tabs: common.ts server.ts client.ts
+  tabs: common.ts,server.ts,client.ts
   description: |-
     The rbx-remote module will create function sets from remote call type definations
     ***
